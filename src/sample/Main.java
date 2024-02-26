@@ -8,6 +8,7 @@ public class Main {
 	
 	System.out.println("テスト中");
 	System.out.println("テスト");
+
 	
 	}
 	
