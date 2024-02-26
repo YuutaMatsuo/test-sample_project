@@ -8,6 +8,8 @@ public class Main {
 	
 	System.out.println("テスト メインブランチ");
 	System.out.println("テスト中です");
+	
+	System.out.println("テストコメント");
 
 	
 	}
