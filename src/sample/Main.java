@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 	hello("みなと");
 	purasu(10,15);
-	purasu(5,10);
+	purasu(20,10);
 	
 	}
 	
