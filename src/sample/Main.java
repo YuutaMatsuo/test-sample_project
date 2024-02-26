@@ -6,6 +6,9 @@ public class Main {
 	purasu(10,15);
 	purasu(20,10);
 	
+	System.out.println("テスト中");
+	System.out.println("テスト");
+	
 	}
 	
 	public static void hello(String name) {
