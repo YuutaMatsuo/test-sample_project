@@ -6,8 +6,8 @@ public class Main {
 	purasu(10,15);
 	purasu(20,10);
 	
-	System.out.println("テスト中");
-	System.out.println("テスト");
+	System.out.println("テスト メインブランチ");
+	System.out.println("テスト中です");
 
 	
 	}
