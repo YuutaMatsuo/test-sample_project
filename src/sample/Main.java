@@ -10,6 +10,7 @@ public class Main {
 	
 	public static void hello(String name) {
 		System.out.println(name + "さん、こんにちは");
+		System.out.println("よろしくお願いします");
 	}
 	
 	public static void purasu(int a, int b) {
